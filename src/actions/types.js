@@ -1,0 +1,2 @@
+export const LOGIN_VALIDATION = "LOGIN_VALIDATION";
+export const FETCH_LIST = "FETCH_LIST";
